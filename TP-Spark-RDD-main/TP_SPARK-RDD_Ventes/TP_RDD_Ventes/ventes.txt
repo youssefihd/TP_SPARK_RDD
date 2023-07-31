@@ -1,0 +1,5 @@
+12-11-2020 casablanca HP 12000
+13-10-2020 rabat DELL 5000
+11-09-2021 casablanca MAC 17000
+12-08-2020 rabat ACER 8000
+03-07-2020 casablanca LENOVO 21000
